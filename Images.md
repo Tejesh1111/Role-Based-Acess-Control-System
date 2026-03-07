@@ -22,3 +22,4 @@ Front end running :
 
 API Testing using Postman For JWT Token Generation :
 <img width="1451" height="991" alt="image" src="https://github.com/user-attachments/assets/7070fe75-5f46-4e99-bc6d-9acc2e60d76a" />
+

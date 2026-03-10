@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://role-based-acess-control-system.onrender.com",
+  baseURL: "https://rbac-backend.up.railway.app",
 });
 
 api.interceptors.response.use(
